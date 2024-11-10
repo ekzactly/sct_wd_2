@@ -1,4 +1,4 @@
-Attractive Interactive Stopwatch
+#Interactive Stopwatch
 This is an interactive and visually appealing stopwatch built using HTML, CSS, and JavaScript. It features a sleek design with a modern user interface and smooth interactions. Users can start, pause, reset, and record lap times, making it a versatile tool for timing events or activities.
 
 Features
